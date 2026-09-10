@@ -82,11 +82,11 @@ Captured from the app running on a physical Android 15 device.
 
 | Dashboard | Device compatibility |
 | --- | --- |
-| ![Virtual 5G dashboard](screenshots/dashboard.png) | ![Device compatibility](screenshots/device-compatibility.png) |
+| ![Virtual 5G dashboard](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/dashboard.png) | ![Device compatibility](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/device-compatibility.png) |
 
 | Speed test |
 | --- |
-| ![Speed test](screenshots/speed-test.png) |
+| ![Speed test](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/speed-test.png) |
 
 ## Installation
 
