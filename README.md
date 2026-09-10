@@ -80,13 +80,11 @@ dev), Redis, Docker.
 
 Captured from the app running on a physical Android 15 device.
 
-<p>
-  <img src="https://github.com/KisholoyDD21/Virtual-5G/blob/main/screenshots/dashboard.png?raw=true" alt="Virtual 5G dashboard" width="320" />
-  <img src="https://github.com/KisholoyDD21/Virtual-5G/blob/main/screenshots/device-compatibility.png?raw=true" alt="Device compatibility" width="320" />
-</p>
-<p>
-  <img src="https://github.com/KisholoyDD21/Virtual-5G/blob/main/screenshots/speed-test.png?raw=true" alt="Speed test" width="320" />
-</p>
+![Virtual 5G dashboard](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/dashboard.png?raw=1)
+
+![Device compatibility](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/device-compatibility.png?raw=1)
+
+![Speed test](https://raw.githubusercontent.com/KisholoyDD21/Virtual-5G/main/screenshots/speed-test.png?raw=1)
 
 ## Installation
 
