@@ -1,5 +1,10 @@
 # Virtual 5G
 
+[![CI](https://github.com/KisholoyDD21/Virtual-5G/actions/workflows/ci.yml/badge.svg)](https://github.com/KisholoyDD21/Virtual-5G/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.2.20-7F52FF.svg?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+
 A software-optimized "5G-like" connectivity experience on 4G devices, which
 automatically steps aside for real 5G the moment your hardware, network, and plan
 actually support it.
@@ -73,9 +78,15 @@ dev), Redis, Docker.
 
 ## Screenshots
 
-The dashboard running on a physical Android 15 device is shown below.
+Captured from the app running on a physical Android 15 device.
 
-![Virtual 5G dashboard](screenshots/dashboard.png)
+| Dashboard | Device compatibility |
+| --- | --- |
+| ![Virtual 5G dashboard](screenshots/dashboard.png) | ![Device compatibility](screenshots/device-compatibility.png) |
+
+| Speed test |
+| --- |
+| ![Speed test](screenshots/speed-test.png) |
 
 ## Installation
 
